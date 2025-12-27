@@ -15,7 +15,11 @@ pip install -r requirements.txt
 - **Run the main script:**:
 
 ```bash
-python main.py
+python src/data_chat.py --> This is to chat with the model
+
+or
+
+python src/agent.py --> This is to process the dataset
 ```
 
 **Environment / Tokens:**
