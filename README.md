@@ -42,3 +42,11 @@ python main.py
 **Development / Extending:**
 - **Add models:** update `EMBED_MODEL_ID` or `GEN_MODEL_ID` in your environment or configuration if you want different embedding/generation models.
 - **Vector store:** to test Milvus integration, deploy a Milvus server and set `MILVUS_URI` to its network address. For local experiments, FAISS requires no external server.
+
+![WhatsApp Image 2025-12-27 at 12 39 36 PM](https://github.com/user-attachments/assets/e5b8c527-2da0-4170-ae7d-cb74a6a657f9)
+
+![WhatsApp Image 2025-12-27 at 12 42 49 PM](https://github.com/user-attachments/assets/619b6faa-80c0-409b-bb5a-0e148cb1ee62)
+
+![WhatsApp Image 2025-12-27 at 12 43 16 PM](https://github.com/user-attachments/assets/b8268171-61f0-4bf0-bcff-a08ff79d2bb3)
+
+  
